@@ -1,0 +1,887 @@
+[
+	{
+		"Time": "13:07:20",
+		"GestureID": "0",
+		"Probability": "0.6257253"
+	},
+	{
+		"Time": "13:07:20",
+		"GestureID": "1",
+		"Probability": "0.9965329"
+	},
+	{
+		"Time": "13:07:21",
+		"GestureID": "0",
+		"Probability": "0.6068467"
+	},
+	{
+		"Time": "13:07:21",
+		"GestureID": "1",
+		"Probability": "0.9025666"
+	},
+	{
+		"Time": "13:07:21",
+		"GestureID": "0",
+		"Probability": "0.4657158"
+	},
+	{
+		"Time": "13:07:21",
+		"GestureID": "0",
+		"Probability": "0.4902072"
+	},
+	{
+		"Time": "13:07:22",
+		"GestureID": "0",
+		"Probability": "0.5019233"
+	},
+	{
+		"Time": "13:07:22",
+		"GestureID": "0",
+		"Probability": "0.5035447"
+	},
+	{
+		"Time": "13:07:22",
+		"GestureID": "0",
+		"Probability": "0.4779094"
+	},
+	{
+		"Time": "13:07:22",
+		"GestureID": "0",
+		"Probability": "0.4762734"
+	},
+	{
+		"Time": "13:07:23",
+		"GestureID": "0",
+		"Probability": "0.5075253"
+	},
+	{
+		"Time": "13:07:23",
+		"GestureID": "0",
+		"Probability": "0.4832922"
+	},
+	{
+		"Time": "13:07:23",
+		"GestureID": "4",
+		"Probability": "0.7203503"
+	},
+	{
+		"Time": "13:07:23",
+		"GestureID": "0",
+		"Probability": "0.5493318"
+	},
+	{
+		"Time": "13:07:24",
+		"GestureID": "0",
+		"Probability": "0.6910939"
+	},
+	{
+		"Time": "13:07:24",
+		"GestureID": "0",
+		"Probability": "0.5816982"
+	},
+	{
+		"Time": "13:07:24",
+		"GestureID": "1",
+		"Probability": "0.970602"
+	},
+	{
+		"Time": "13:07:24",
+		"GestureID": "1",
+		"Probability": "0.9941678"
+	},
+	{
+		"Time": "13:07:25",
+		"GestureID": "1",
+		"Probability": "0.9813029"
+	},
+	{
+		"Time": "13:07:25",
+		"GestureID": "1",
+		"Probability": "0.96585"
+	},
+	{
+		"Time": "13:07:25",
+		"GestureID": "1",
+		"Probability": "0.9686648"
+	},
+	{
+		"Time": "13:07:25",
+		"GestureID": "1",
+		"Probability": "0.9645076"
+	},
+	{
+		"Time": "13:07:26",
+		"GestureID": "1",
+		"Probability": "0.9809722"
+	},
+	{
+		"Time": "13:07:26",
+		"GestureID": "1",
+		"Probability": "0.9741978"
+	},
+	{
+		"Time": "13:07:26",
+		"GestureID": "1",
+		"Probability": "0.9684867"
+	},
+	{
+		"Time": "13:07:26",
+		"GestureID": "1",
+		"Probability": "0.9785496"
+	},
+	{
+		"Time": "13:07:27",
+		"GestureID": "1",
+		"Probability": "0.9649106"
+	},
+	{
+		"Time": "13:07:27",
+		"GestureID": "1",
+		"Probability": "0.9660451"
+	},
+	{
+		"Time": "13:07:27",
+		"GestureID": "1",
+		"Probability": "0.9703314"
+	},
+	{
+		"Time": "13:07:27",
+		"GestureID": "1",
+		"Probability": "0.859207"
+	},
+	{
+		"Time": "13:07:28",
+		"GestureID": "1",
+		"Probability": "0.7165753"
+	},
+	{
+		"Time": "13:07:28",
+		"GestureID": "4",
+		"Probability": "0.9113985"
+	},
+	{
+		"Time": "13:07:28",
+		"GestureID": "4",
+		"Probability": "0.8444791"
+	},
+	{
+		"Time": "13:07:28",
+		"GestureID": "4",
+		"Probability": "0.8256228"
+	},
+	{
+		"Time": "13:07:29",
+		"GestureID": "4",
+		"Probability": "0.9066795"
+	},
+	{
+		"Time": "13:07:29",
+		"GestureID": "4",
+		"Probability": "0.9265676"
+	},
+	{
+		"Time": "13:07:29",
+		"GestureID": "4",
+		"Probability": "0.8648309"
+	},
+	{
+		"Time": "13:07:29",
+		"GestureID": "4",
+		"Probability": "0.8084778"
+	},
+	{
+		"Time": "13:07:30",
+		"GestureID": "4",
+		"Probability": "0.8996266"
+	},
+	{
+		"Time": "13:07:30",
+		"GestureID": "4",
+		"Probability": "0.9003103"
+	},
+	{
+		"Time": "13:07:30",
+		"GestureID": "4",
+		"Probability": "0.9160916"
+	},
+	{
+		"Time": "13:07:30",
+		"GestureID": "4",
+		"Probability": "0.7515487"
+	},
+	{
+		"Time": "13:07:31",
+		"GestureID": "4",
+		"Probability": "0.8742399"
+	},
+	{
+		"Time": "13:07:31",
+		"GestureID": "4",
+		"Probability": "0.9141946"
+	},
+	{
+		"Time": "13:07:31",
+		"GestureID": "0",
+		"Probability": "0.637863"
+	},
+	{
+		"Time": "13:07:31",
+		"GestureID": "3",
+		"Probability": "0.9979525"
+	},
+	{
+		"Time": "13:07:32",
+		"GestureID": "3",
+		"Probability": "0.9970955"
+	},
+	{
+		"Time": "13:07:32",
+		"GestureID": "3",
+		"Probability": "0.996742"
+	},
+	{
+		"Time": "13:07:32",
+		"GestureID": "3",
+		"Probability": "0.9969639"
+	},
+	{
+		"Time": "13:07:32",
+		"GestureID": "3",
+		"Probability": "0.9974849"
+	},
+	{
+		"Time": "13:07:33",
+		"GestureID": "3",
+		"Probability": "0.9974496"
+	},
+	{
+		"Time": "13:07:33",
+		"GestureID": "3",
+		"Probability": "0.9976535"
+	},
+	{
+		"Time": "13:07:33",
+		"GestureID": "3",
+		"Probability": "0.9976321"
+	},
+	{
+		"Time": "13:07:33",
+		"GestureID": "3",
+		"Probability": "0.9978418"
+	},
+	{
+		"Time": "13:07:34",
+		"GestureID": "3",
+		"Probability": "0.9977474"
+	},
+	{
+		"Time": "13:07:34",
+		"GestureID": "3",
+		"Probability": "0.9977652"
+	},
+	{
+		"Time": "13:07:34",
+		"GestureID": "3",
+		"Probability": "0.9977309"
+	},
+	{
+		"Time": "13:07:34",
+		"GestureID": "0",
+		"Probability": "0.6904126"
+	},
+	{
+		"Time": "13:07:35",
+		"GestureID": "1",
+		"Probability": "0.990039"
+	},
+	{
+		"Time": "13:07:35",
+		"GestureID": "1",
+		"Probability": "0.9930688"
+	},
+	{
+		"Time": "13:07:35",
+		"GestureID": "1",
+		"Probability": "0.9924328"
+	},
+	{
+		"Time": "13:07:35",
+		"GestureID": "1",
+		"Probability": "0.9920472"
+	},
+	{
+		"Time": "13:07:36",
+		"GestureID": "1",
+		"Probability": "0.9926267"
+	},
+	{
+		"Time": "13:07:36",
+		"GestureID": "1",
+		"Probability": "0.9912546"
+	},
+	{
+		"Time": "13:07:36",
+		"GestureID": "1",
+		"Probability": "0.9915623"
+	},
+	{
+		"Time": "13:07:36",
+		"GestureID": "1",
+		"Probability": "0.9927652"
+	},
+	{
+		"Time": "13:07:37",
+		"GestureID": "1",
+		"Probability": "0.9902654"
+	},
+	{
+		"Time": "13:07:37",
+		"GestureID": "1",
+		"Probability": "0.9939265"
+	},
+	{
+		"Time": "13:07:37",
+		"GestureID": "1",
+		"Probability": "0.9919153"
+	},
+	{
+		"Time": "13:07:37",
+		"GestureID": "1",
+		"Probability": "0.9908083"
+	},
+	{
+		"Time": "13:07:38",
+		"GestureID": "3",
+		"Probability": "0.8588935"
+	},
+	{
+		"Time": "13:07:38",
+		"GestureID": "0",
+		"Probability": "0.6677691"
+	},
+	{
+		"Time": "13:07:38",
+		"GestureID": "0",
+		"Probability": "0.6299155"
+	},
+	{
+		"Time": "13:07:38",
+		"GestureID": "0",
+		"Probability": "0.5517048"
+	},
+	{
+		"Time": "13:07:39",
+		"GestureID": "0",
+		"Probability": "0.4784754"
+	},
+	{
+		"Time": "13:07:39",
+		"GestureID": "0",
+		"Probability": "0.4021283"
+	},
+	{
+		"Time": "13:07:39",
+		"GestureID": "0",
+		"Probability": "0.3399622"
+	},
+	{
+		"Time": "13:07:39",
+		"GestureID": "0",
+		"Probability": "0.4159627"
+	},
+	{
+		"Time": "13:07:40",
+		"GestureID": "4",
+		"Probability": "0.8915483"
+	},
+	{
+		"Time": "13:07:40",
+		"GestureID": "4",
+		"Probability": "0.732325"
+	},
+	{
+		"Time": "13:07:40",
+		"GestureID": "4",
+		"Probability": "0.8646306"
+	},
+	{
+		"Time": "13:07:40",
+		"GestureID": "4",
+		"Probability": "0.8149623"
+	},
+	{
+		"Time": "13:07:41",
+		"GestureID": "4",
+		"Probability": "0.8699809"
+	},
+	{
+		"Time": "13:07:41",
+		"GestureID": "4",
+		"Probability": "0.8132589"
+	},
+	{
+		"Time": "13:07:41",
+		"GestureID": "4",
+		"Probability": "0.8806005"
+	},
+	{
+		"Time": "13:07:41",
+		"GestureID": "4",
+		"Probability": "0.9156983"
+	},
+	{
+		"Time": "13:07:42",
+		"GestureID": "4",
+		"Probability": "0.8359991"
+	},
+	{
+		"Time": "13:07:42",
+		"GestureID": "4",
+		"Probability": "0.9138196"
+	},
+	{
+		"Time": "13:07:42",
+		"GestureID": "4",
+		"Probability": "0.9274206"
+	},
+	{
+		"Time": "13:07:42",
+		"GestureID": "4",
+		"Probability": "0.928715"
+	},
+	{
+		"Time": "13:07:43",
+		"GestureID": "4",
+		"Probability": "0.8930572"
+	},
+	{
+		"Time": "13:07:43",
+		"GestureID": "4",
+		"Probability": "0.8796768"
+	},
+	{
+		"Time": "13:07:43",
+		"GestureID": "4",
+		"Probability": "0.8578826"
+	},
+	{
+		"Time": "13:07:43",
+		"GestureID": "4",
+		"Probability": "0.9135104"
+	},
+	{
+		"Time": "13:07:44",
+		"GestureID": "4",
+		"Probability": "0.9135576"
+	},
+	{
+		"Time": "13:07:44",
+		"GestureID": "4",
+		"Probability": "0.8685076"
+	},
+	{
+		"Time": "13:07:44",
+		"GestureID": "3",
+		"Probability": "0.9412519"
+	},
+	{
+		"Time": "13:07:44",
+		"GestureID": "2",
+		"Probability": "0.8166057"
+	},
+	{
+		"Time": "13:07:45",
+		"GestureID": "2",
+		"Probability": "0.9640079"
+	},
+	{
+		"Time": "13:07:45",
+		"GestureID": "2",
+		"Probability": "0.9573528"
+	},
+	{
+		"Time": "13:07:45",
+		"GestureID": "0",
+		"Probability": "0.6350827"
+	},
+	{
+		"Time": "13:07:45",
+		"GestureID": "2",
+		"Probability": "0.9594564"
+	},
+	{
+		"Time": "13:07:46",
+		"GestureID": "2",
+		"Probability": "0.9592701"
+	},
+	{
+		"Time": "13:07:46",
+		"GestureID": "2",
+		"Probability": "0.949701"
+	},
+	{
+		"Time": "13:07:46",
+		"GestureID": "2",
+		"Probability": "0.9470766"
+	},
+	{
+		"Time": "13:07:46",
+		"GestureID": "2",
+		"Probability": "0.949669"
+	},
+	{
+		"Time": "13:07:47",
+		"GestureID": "2",
+		"Probability": "0.9507865"
+	},
+	{
+		"Time": "13:07:47",
+		"GestureID": "2",
+		"Probability": "0.9517204"
+	},
+	{
+		"Time": "13:07:47",
+		"GestureID": "0",
+		"Probability": "0.6084657"
+	},
+	{
+		"Time": "13:07:47",
+		"GestureID": "0",
+		"Probability": "0.6455724"
+	},
+	{
+		"Time": "13:07:48",
+		"GestureID": "0",
+		"Probability": "0.6552368"
+	},
+	{
+		"Time": "13:07:48",
+		"GestureID": "0",
+		"Probability": "0.6487266"
+	},
+	{
+		"Time": "13:07:48",
+		"GestureID": "3",
+		"Probability": "0.9875502"
+	},
+	{
+		"Time": "13:07:48",
+		"GestureID": "0",
+		"Probability": "0.6572412"
+	},
+	{
+		"Time": "13:07:49",
+		"GestureID": "0",
+		"Probability": "0.5106866"
+	},
+	{
+		"Time": "13:07:49",
+		"GestureID": "0",
+		"Probability": "0.538926"
+	},
+	{
+		"Time": "13:07:49",
+		"GestureID": "3",
+		"Probability": "0.9983743"
+	},
+	{
+		"Time": "13:07:49",
+		"GestureID": "3",
+		"Probability": "0.9977945"
+	},
+	{
+		"Time": "13:07:50",
+		"GestureID": "3",
+		"Probability": "0.9977399"
+	},
+	{
+		"Time": "13:07:50",
+		"GestureID": "3",
+		"Probability": "0.997652"
+	},
+	{
+		"Time": "13:07:50",
+		"GestureID": "3",
+		"Probability": "0.9978414"
+	},
+	{
+		"Time": "13:07:50",
+		"GestureID": "3",
+		"Probability": "0.9977546"
+	},
+	{
+		"Time": "13:07:51",
+		"GestureID": "3",
+		"Probability": "0.9978086"
+	},
+	{
+		"Time": "13:07:51",
+		"GestureID": "3",
+		"Probability": "0.9978661"
+	},
+	{
+		"Time": "13:07:51",
+		"GestureID": "3",
+		"Probability": "0.9976242"
+	},
+	{
+		"Time": "13:07:51",
+		"GestureID": "3",
+		"Probability": "0.9978619"
+	},
+	{
+		"Time": "13:07:52",
+		"GestureID": "3",
+		"Probability": "0.9817415"
+	},
+	{
+		"Time": "13:07:52",
+		"GestureID": "0",
+		"Probability": "0.642765"
+	},
+	{
+		"Time": "13:07:52",
+		"GestureID": "0",
+		"Probability": "0.6909798"
+	},
+	{
+		"Time": "13:07:52",
+		"GestureID": "1",
+		"Probability": "0.954284"
+	},
+	{
+		"Time": "13:07:53",
+		"GestureID": "1",
+		"Probability": "0.9981157"
+	},
+	{
+		"Time": "13:07:53",
+		"GestureID": "1",
+		"Probability": "0.98169"
+	},
+	{
+		"Time": "13:07:53",
+		"GestureID": "1",
+		"Probability": "0.9981757"
+	},
+	{
+		"Time": "13:07:53",
+		"GestureID": "1",
+		"Probability": "0.985891"
+	},
+	{
+		"Time": "13:07:54",
+		"GestureID": "1",
+		"Probability": "0.9984503"
+	},
+	{
+		"Time": "13:07:54",
+		"GestureID": "1",
+		"Probability": "0.9925436"
+	},
+	{
+		"Time": "13:07:54",
+		"GestureID": "1",
+		"Probability": "0.9831654"
+	},
+	{
+		"Time": "13:07:54",
+		"GestureID": "1",
+		"Probability": "0.9822447"
+	},
+	{
+		"Time": "13:07:55",
+		"GestureID": "1",
+		"Probability": "0.9862007"
+	},
+	{
+		"Time": "13:07:55",
+		"GestureID": "1",
+		"Probability": "0.9981362"
+	},
+	{
+		"Time": "13:07:55",
+		"GestureID": "1",
+		"Probability": "0.9913065"
+	},
+	{
+		"Time": "13:07:55",
+		"GestureID": "1",
+		"Probability": "0.9816744"
+	},
+	{
+		"Time": "13:07:56",
+		"GestureID": "1",
+		"Probability": "0.9911208"
+	},
+	{
+		"Time": "13:07:56",
+		"GestureID": "1",
+		"Probability": "0.9863113"
+	},
+	{
+		"Time": "13:07:56",
+		"GestureID": "4",
+		"Probability": "0.8917753"
+	},
+	{
+		"Time": "13:07:56",
+		"GestureID": "4",
+		"Probability": "0.9261357"
+	},
+	{
+		"Time": "13:07:57",
+		"GestureID": "4",
+		"Probability": "0.9076368"
+	},
+	{
+		"Time": "13:07:57",
+		"GestureID": "4",
+		"Probability": "0.9134455"
+	},
+	{
+		"Time": "13:07:57",
+		"GestureID": "4",
+		"Probability": "0.9053157"
+	},
+	{
+		"Time": "13:07:57",
+		"GestureID": "4",
+		"Probability": "0.9091989"
+	},
+	{
+		"Time": "13:07:58",
+		"GestureID": "4",
+		"Probability": "0.9403436"
+	},
+	{
+		"Time": "13:07:58",
+		"GestureID": "4",
+		"Probability": "0.8868148"
+	},
+	{
+		"Time": "13:07:58",
+		"GestureID": "4",
+		"Probability": "0.9194083"
+	},
+	{
+		"Time": "13:07:58",
+		"GestureID": "4",
+		"Probability": "0.8974619"
+	},
+	{
+		"Time": "13:07:59",
+		"GestureID": "4",
+		"Probability": "0.9281713"
+	},
+	{
+		"Time": "13:07:59",
+		"GestureID": "4",
+		"Probability": "0.8833156"
+	},
+	{
+		"Time": "13:07:59",
+		"GestureID": "3",
+		"Probability": "0.9120201"
+	},
+	{
+		"Time": "13:07:59",
+		"GestureID": "3",
+		"Probability": "0.9685085"
+	},
+	{
+		"Time": "13:08:00",
+		"GestureID": "3",
+		"Probability": "0.9647321"
+	},
+	{
+		"Time": "13:08:00",
+		"GestureID": "0",
+		"Probability": "0.5316317"
+	},
+	{
+		"Time": "13:08:00",
+		"GestureID": "0",
+		"Probability": "0.5508401"
+	},
+	{
+		"Time": "13:08:00",
+		"GestureID": "0",
+		"Probability": "0.4745859"
+	},
+	{
+		"Time": "13:08:01",
+		"GestureID": "2",
+		"Probability": "0.9618554"
+	},
+	{
+		"Time": "13:08:01",
+		"GestureID": "2",
+		"Probability": "0.9658378"
+	},
+	{
+		"Time": "13:08:01",
+		"GestureID": "2",
+		"Probability": "0.9531644"
+	},
+	{
+		"Time": "13:08:01",
+		"GestureID": "2",
+		"Probability": "0.9527636"
+	},
+	{
+		"Time": "13:08:02",
+		"GestureID": "0",
+		"Probability": "0.6734474"
+	},
+	{
+		"Time": "13:08:02",
+		"GestureID": "0",
+		"Probability": "0.5790235"
+	},
+	{
+		"Time": "13:08:02",
+		"GestureID": "0",
+		"Probability": "0.5907363"
+	},
+	{
+		"Time": "13:08:02",
+		"GestureID": "3",
+		"Probability": "0.8421735"
+	},
+	{
+		"Time": "13:08:03",
+		"GestureID": "2",
+		"Probability": "0.9605749"
+	},
+	{
+		"Time": "13:08:03",
+		"GestureID": "0",
+		"Probability": "0.6261122"
+	},
+	{
+		"Time": "13:08:03",
+		"GestureID": "0",
+		"Probability": "0.6461438"
+	},
+	{
+		"Time": "13:08:03",
+		"GestureID": "3",
+		"Probability": "0.7005242"
+	},
+	{
+		"Time": "13:08:04",
+		"GestureID": "3",
+		"Probability": "0.7149754"
+	},
+	{
+		"Time": "13:08:04",
+		"GestureID": "3",
+		"Probability": "0.9849207"
+	},
+	{
+		"Time": "13:08:04",
+		"GestureID": "3",
+		"Probability": "0.9835723"
+	}
+]
